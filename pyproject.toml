@@ -1,5 +1,5 @@
 [project]
-name = "depth-anything-v2"
+name = "zoedepth"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -10,4 +10,4 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-include = ["depth_anything_v2*"]
+include = ["metric_depth/zoedepth*"]
